@@ -1,0 +1,1 @@
+In this module, I learned how to about version control wiht Git and GitHub. I got familiar with the three phrases: add, commit, and push. I uploaded my three previous module projects into one repository on my GitHub account. I am now familiar with the core Git workflow.
