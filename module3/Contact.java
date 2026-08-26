@@ -1,4 +1,3 @@
-/** Represents one contact in the contact manager. */
 public class Contact {
     private String name;
     private String phone;
